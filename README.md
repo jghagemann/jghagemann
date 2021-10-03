@@ -1,16 +1,19 @@
-### Hi there 👋
+### João Guilherme Hagemann
 
-<!--
-**jghagemann/jghagemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! Welcome to my Github profile.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jghagemann)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+When I am not coding or leaning anything related to development I enjoy
+- Playing games
+- Reading
+- Watching sports
+- Spending time with friends
+
+## At Work
+When working, I enjoy collaborating with people, sharing my knowledge, learning something new and overcoming challenges!
+
+## Get in Touch
+https://www.linkedin.com/in/jghagemann/
+
