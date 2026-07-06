@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my Github profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jghagemann)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=jghagemann)](https://github.com/stats-organization/github-stats-extended)
 
 ## About me
 When I am not coding or leaning anything related to development I enjoy
