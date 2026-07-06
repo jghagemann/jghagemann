@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my Github profile.
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=jghagemann)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jghagemann)](https://github.com/stats-organization/github-stats-extended)
 
 ## About me
 When I am not coding or leaning anything related to development I enjoy
